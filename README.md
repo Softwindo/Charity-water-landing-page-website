@@ -15,18 +15,11 @@ This landing page is designed to help Charity Water connect with college student
 │   ├── charity-water-logo.png
 │   └── hero-drill.jpg
 ├── README.md
-└── .gitignore
 ```
 
 ## How to View Locally
 
 Open `index.html` directly in your browser.
-
-## How to Upload to GitHub
-
-1. Create a new GitHub repository.
-2. Upload all files in this folder, including `index.html` and the `assets` folder.
-3. Commit the changes.
 
 ## How to Deploy with GitHub Pages
 
