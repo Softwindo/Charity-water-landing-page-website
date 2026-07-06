@@ -30,7 +30,3 @@ Open `index.html` directly in your browser.
 5. Select the `main` branch and `/root` folder.
 6. Save.
 7. GitHub will generate a live website link after a minute or two.
-
-## Notes
-
-No Lovable files, node modules, or build tools are included. This is a clean static website.
