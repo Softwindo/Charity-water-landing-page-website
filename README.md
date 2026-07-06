@@ -11,9 +11,8 @@ This landing page is designed to help Charity Water connect with college student
 ```text
 .
 ├── index.html
-├── assets/
-│   ├── charity-water-logo.png
-│   └── hero-drill.jpg
+├── charity-water-logo.png
+├── hero-drill.jpg
 ├── README.md
 ```
 
