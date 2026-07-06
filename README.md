@@ -1,6 +1,6 @@
 # Charity Water Landing Page
 
-A static landing page concept designed for a Global Career Accelerator project. The page is built with plain HTML and CSS, so it can be uploaded directly to GitHub and deployed with GitHub Pages, Netlify, or Vercel without any build step.
+A static landing page concept designed for a Global Career Accelerator project. 
 
 ## Project Overview
 
